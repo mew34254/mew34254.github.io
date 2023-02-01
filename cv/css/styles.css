@@ -1,0 +1,232 @@
+body {
+    margin: 0;
+
+    background-color: #F9E9DE;
+
+    text-align: center;
+
+    font-family: 'Montserrat', sans-serif;
+    color: #000090;
+}
+
+.pagesection {
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.header {
+    margin-top: 0;
+    width: 100%;
+}
+
+#title {
+    margin: 10px 0 0 0;
+
+    font-size: 64px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #93E9BE;
+    text-decoration: overline;
+    text-decoration-color: #93E9BE;
+}
+
+#title:hover {
+    transition-duration: 3s;
+    color: #000090;
+    text-decoration-color: #000090;
+}
+
+#subtitle {
+    margin: 0 0 20px 0;
+
+    font-size: 12px;
+}
+
+img {
+    margin: 0;
+}
+
+#me {
+    display: block;
+
+    margin: 0 auto;
+    width: 100px;
+}
+
+#ocean {
+    display: block;
+
+    width: 100%;
+    height: 16px;
+    overflow: hidden;
+}
+
+.greeting {
+    text-align: left;
+}
+
+.line {
+    margin: 2px 0 0 0;
+}
+
+.one {
+    border: 2px solid #000070;
+    width: 70%;
+}
+
+.two {
+    margin-top: 4px;
+    border: 2px solid #93E9BE;
+    border-bottom-width: 2px;
+    border-bottom-color: #83D9AE;
+    width: 90%;
+}
+
+.three {
+    border: 2px solid #000070;
+    width: 50%;
+}
+
+.four {
+    margin-top: 4px;
+    border: 2px solid #93E9BE;
+    border-bottom-width: 2px;
+    border-bottom-color: #83D9AE;
+    width: 70%;
+}
+
+.five {
+    border: 2px solid #000070;
+    width: 30%;
+}
+
+.six {
+    margin-top: 4px;
+    border: 2px solid #93E9BE;
+    border-bottom-width: 2px;
+    border-bottom-color: #83D9AE;
+    width: 50%;
+}
+
+.seven {
+    border: 2px solid #000070;
+    width: 10%;
+}
+
+.eight {
+    margin-top: 4px;
+    border: 2px solid #93E9BE;
+    border-bottom-width: 2px;
+    border-bottom-color: #83D9AE;
+    width: 30%;
+}
+
+.box {
+    border: 2px solid #83D9AE;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+    width: 80%;
+    background-color: #93E9BE;
+}
+
+.box:hover {
+    transition-duration: 2s;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.sectiontitle h3 {
+    border: 4px solid #000070;
+    width: 100%;
+    padding: 0.5rem 0;
+
+    background-color: #000090;
+
+    font-size: 28px;
+    color: aliceblue;
+}
+
+.box hr {
+    margin: 40px 0;
+    border: 4px solid aliceblue;
+    border-radius: 50%;
+    width: 100%;
+}
+
+.left {
+    width: 60%;
+
+    float: left;
+}
+
+.right {
+    width: 40%;
+
+    float: right;
+}
+
+#computer {
+    width: 200px;
+}
+
+dl {
+    margin: 10px 0;
+}
+
+a:link {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000060;
+}
+
+a:hover {
+    transition-duration: 1s;
+    color: yellow;
+}
+
+#hammer {
+    width: 100px;
+}
+
+#journal {
+    width: 200px;
+}
+
+.footer {
+    margin-bottom: 6px;
+}
+
+#contact {
+    border: 2px solid aliceblue;
+    border-radius: 10px;
+    padding: 16px;
+
+    background-color: aliceblue;
+
+    color: #000090;
+}
+
+#contact:hover {
+    border-color: white;
+    background-color: white;
+}
+
+.copyright {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+
+    margin: 0 auto;
+}
+
+textarea {
+    display: block;
+
+    margin: 0 auto;
+}
